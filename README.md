@@ -15,7 +15,7 @@ Nothing more.
 - **`Main.tscn`**
   - A basic empty window
 
-- **`/assets`**
+- **`/Assets`**
   - sprites used in the tutorial
   - sound effects
 
